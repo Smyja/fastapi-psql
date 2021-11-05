@@ -2,7 +2,7 @@
 name = "fastapibic"
 version = "0.1.0"
 description = ""
-authors = ["smyja <akposlive59@gmail.com>"]
+authors = ["smyja"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
